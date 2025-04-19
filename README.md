@@ -33,7 +33,7 @@ I'm **Muhammad Hasnain Ali**, a dedicated **Intermediate (FSc Pre-Medical)** stu
 
 📫 **Connect With Me**
 
-- 💌 Email: hasnain.md.student@gmail.com *(or add the real one)*
+- 💌 Email: dothasnainali@gmail.com *(or add the real one)*
 - 📖 Study Blog (coming soon!)
 - 🧪 MCAT Preparation Journey: *Starting soon, stay tuned!*
 
