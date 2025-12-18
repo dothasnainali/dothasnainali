@@ -48,6 +48,12 @@ I'm **Muhammad Hasnain Ali**, a dedicated **Intermediate (FSc Pre-Medical)** stu
 
 ---
 
+📚 **Resources & Guides**
+
+- 🤖 [Complete n8n Kindle Book Workflow](./n8n-kindle-book-workflow.md) - A comprehensive guide to building an automated workflow for creating and publishing Amazon Kindle books using n8n automation
+
+---
+
 💡 **Inspired & Supported By My Brother:** [@dotusmanali](https://github.com/dotusmanali)  
 > *"He believed in my dream even before I fully did."*
 
